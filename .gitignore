@@ -1,0 +1,23 @@
+# Development environment
+.idea
+.vscode
+.sass-cache
+*.code-workspace
+.DS_Store
+npm-debug.log
+yarn-error.log
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+/node_modules/
+/bower_components/
+
+# Config files
+sftp-config.json
+package-lock.json
+*.sublime-project
+*.sublime-workspace
+
+# Projects
